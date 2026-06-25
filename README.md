@@ -7,6 +7,7 @@ This repository contains my Python practice projects built while learning Python
 | Day    | Project           |
 | ------ | ----------------- |
 | Day 01 | Todo List Manager |
+| Day 02 | Calculator        |
 
 ## 🛠 Topics Covered
 
