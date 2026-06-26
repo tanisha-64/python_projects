@@ -20,7 +20,7 @@ This repository contains my Python practice projects built while learning Python
 
 ## 📈 Progress
 
-Completed Projects: 1
+Completed Projects: 2
 
 ## 👩‍💻 Author
 
