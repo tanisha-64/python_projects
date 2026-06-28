@@ -9,6 +9,7 @@ This repository contains my Python practice projects while learning Python from 
 | Day 01 | Todo List Manager    |
 | Day 02 | Calculator           |
 | Day 03 | Number Guessing Game |
+| Day 04 | Password Generator   |
 
 ## 🛠 Topics Covered
 
@@ -21,10 +22,12 @@ This repository contains my Python practice projects while learning Python from 
 * Lists
 * File Handling
 * Random Module
+* String Module
+* try-except
 
 ## 📈 Progress
 
-* Completed Projects: **3**
+* Completed Projects: **4**
 
 ## 👩‍💻 Author
 
