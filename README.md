@@ -13,6 +13,7 @@ This repository contains my daily Python projects created while learning Python 
 | Day 03 | Number Guessing Game |
 | Day 04 | Password Generator   |
 | Day 05 | Bank Account System  |
+| Day 06 | Smart Home Hub       |
 
 ## 🛠 Topics Covered
 
@@ -29,6 +30,9 @@ This repository contains my daily Python projects created while learning Python 
 * try-except
 * Object-Oriented Programming (OOP)
 * Encapsulation
+* Abstraction
+* Inheritance
+* Polymorphism
 
 ## 🎯 Repository Goal
 
